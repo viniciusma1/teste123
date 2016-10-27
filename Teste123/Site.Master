@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Teste123.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Pagina Inicial</title>
+    <script src="Scripts/jquery-2.1.4.min.js"></script>
+    <link href="Content/metro.min.css" rel="stylesheet" />
+    <link href="Content/metro-icons.css" rel="stylesheet" />
+    <script src="Scripts/metro.min.js"></script>
+
+</head>
+<body>
+    <div class="app-bar">
+    <a class="app-bar-element" href="1021.aspx">Inicio</a>
+    <span class="app-bar-divider"></span>
+    <ul class="app-bar-menu">
+        <li><a href="formulario.aspx">Formulário</a></li>
+        <li><a href="formulario2.aspx">Formulário Completo</a></li>
+        
+            <a href="help.aspx" class="dropdown-toggle">Produtos</a>                        
+            <ul class="d-menu" data-role="dropdown">
+                <li><a href="formulário3.aspx">Windows 10</a></li>
+                <li><a href="">Spartan</a></li>
+                <li><a href="">Outlook</a></li>
+                <li><a href="">Office 2015</a></li>
+                <li class="divider"></li>
+                <li><a href="" class="dropdown-toggle">Other Products</a></li>
+                    <ul class="d-menu" data-role="dropdown">
+                        <li><a href="">Internet Explorer 10</a></li>
+                        <li><a href="">Skype</a></li>
+                        <li><a href="">Surface</a></li>
+                    </ul>
+                </li>
+            </ul>       
+        <li><a href="Suporte.aspx">Suporte</a></li>
+        <li><a href="Help.aspx">Help</a></li>
+    </ul>
+</div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

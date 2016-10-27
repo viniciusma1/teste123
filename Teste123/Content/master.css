@@ -1,0 +1,13 @@
+﻿.logoHDI {
+    background-image: url("Imagens/Logo_HDI.png");
+     width: 35% !important; 
+    height: 92%; 
+    opacity: 0.3; 
+    margin: 0 auto; 
+    position: absolute; 
+    left: 33%; 
+    z-index: -9999; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: 75%; 
+}

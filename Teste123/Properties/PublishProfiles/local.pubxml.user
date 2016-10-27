@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ReuniaoDiaria</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Teste123.dll">
+      <publishTime>11/17/2015 10:41:36</publishTime>
+    </File>
+    <File Include="CalculateWorker.js">
+      <publishTime>10/08/2015 15:05:58</publishTime>
+    </File>
+    <File Include="Content/docs.css">
+      <publishTime>10/07/2015 10:46:06</publishTime>
+    </File>
+    <File Include="Content/formulário.css">
+      <publishTime>11/17/2015 10:40:02</publishTime>
+    </File>
+    <File Include="Content/Imagens/Logo_HDI.png">
+      <publishTime>09/14/2015 13:27:55</publishTime>
+    </File>
+    <File Include="Content/Imagens/logo_icone.png">
+      <publishTime>09/14/2015 13:24:27</publishTime>
+    </File>
+    <File Include="Content/Imagens/x.png">
+      <publishTime>11/16/2015 11:18:42</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.css">
+      <publishTime>10/07/2015 11:51:00</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.min.css">
+      <publishTime>10/07/2015 11:51:00</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.structure.css">
+      <publishTime>10/07/2015 11:51:00</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.structure.min.css">
+      <publishTime>10/07/2015 11:51:00</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.theme.css">
+      <publishTime>10/07/2015 11:51:00</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.theme.min.css">
+      <publishTime>10/07/2015 11:51:00</publishTime>
+    </File>
+    <File Include="Content/master.css">
+      <publishTime>09/14/2015 13:57:18</publishTime>
+    </File>
+    <File Include="Content/metro-icons.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-icons.min.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-responsive.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-responsive.min.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-rtl.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-rtl.min.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-schemes.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro-schemes.min.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro.css">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Content/metro.min.css">
+      <publishTime>09/15/2015 10:13:17</publishTime>
+    </File>
+    <File Include="Content/scriptteste.js">
+      <publishTime>11/16/2015 11:05:37</publishTime>
+    </File>
+    <File Include="Content/teste.css">
+      <publishTime>08/18/2015 11:45:03</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>11/17/2015 10:36:54</publishTime>
+    </File>
+    <File Include="Exercícios/ProjetoExercício2.aspx">
+      <publishTime>08/24/2015 09:09:18</publishTime>
+    </File>
+    <File Include="Exercícios/ProjetoExercício3.aspx">
+      <publishTime>08/24/2015 08:48:19</publishTime>
+    </File>
+    <File Include="Exercícios/ProjetoExercício4.aspx">
+      <publishTime>08/24/2015 11:01:17</publishTime>
+    </File>
+    <File Include="Exercícios/ProjetoExercício6.aspx">
+      <publishTime>08/24/2015 11:45:43</publishTime>
+    </File>
+    <File Include="Exercícios/ProjetoLetreiro.aspx">
+      <publishTime>08/20/2015 13:46:04</publishTime>
+    </File>
+    <File Include="external/jquery/jquery.js">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="Fonts/metro.eot">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Fonts/metro.svg">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Fonts/metro.ttf">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Fonts/metro.woff">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Fonts/selection.json">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="FormulárioReunião.aspx">
+      <publishTime>10/01/2015 10:50:28</publishTime>
+    </File>
+    <File Include="images/ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_diagonals-thick_20_666666_40x40.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_flat_10_000000_40x100.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_glass_100_f6f6f6_1x400.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_glass_100_fdf5ce_1x400.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-icons_222222_256x240.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-icons_228ef1_256x240.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-icons_ef8c08_256x240.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-icons_ffd27a_256x240.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="images/ui-icons_ffffff_256x240.png">
+      <publishTime>10/07/2015 11:50:07</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Masters/ReuniaoDiaria.Master">
+      <publishTime>11/10/2015 09:19:38</publishTime>
+    </File>
+    <File Include="Masters/Site.Master">
+      <publishTime>08/27/2015 10:13:03</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/23/2015 10:56:42</publishTime>
+    </File>
+    <File Include="Pessoal/Página1.aspx">
+      <publishTime>09/30/2015 10:08:53</publishTime>
+    </File>
+    <File Include="ReuniãoDiária/Cadastro.aspx">
+      <publishTime>09/22/2015 09:12:00</publishTime>
+    </File>
+    <File Include="ReuniãoDiária/FormulárioReunião.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReuniãoDiária/index.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ReuniãoDiária/ReuniãoDiária.aspx">
+      <publishTime>09/22/2015 09:01:00</publishTime>
+    </File>
+    <File Include="ReuniãoDiária/SalvarFormulário.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/docs.js">
+      <publishTime>10/07/2015 10:42:50</publishTime>
+    </File>
+    <File Include="Scripts/ga.js">
+      <publishTime>10/07/2015 10:44:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.js">
+      <publishTime>08/05/2015 13:26:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.js">
+      <publishTime>08/05/2015 13:26:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.map">
+      <publishTime>08/05/2015 13:26:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.js">
+      <publishTime>10/07/2015 11:51:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.min.js">
+      <publishTime>10/07/2015 11:51:16</publishTime>
+    </File>
+    <File Include="Scripts/metro.js">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Scripts/metro.min.js">
+      <publishTime>08/05/2015 13:25:15</publishTime>
+    </File>
+    <File Include="Scripts/run_prettify.js">
+      <publishTime>10/07/2015 10:43:45</publishTime>
+    </File>
+    <File Include="Siite/1021.aspx">
+      <publishTime>09/09/2015 10:58:08</publishTime>
+    </File>
+    <File Include="Siite/formulario.aspx">
+      <publishTime>09/08/2015 10:32:00</publishTime>
+    </File>
+    <File Include="Siite/formulario2.aspx">
+      <publishTime>08/24/2015 13:50:31</publishTime>
+    </File>
+    <File Include="Siite/formulário3.aspx">
+      <publishTime>08/18/2015 11:22:29</publishTime>
+    </File>
+    <File Include="Siite/Global.asax">
+      <publishTime>08/05/2015 13:24:57</publishTime>
+    </File>
+    <File Include="Siite/Help.aspx">
+      <publishTime>08/13/2015 10:46:55</publishTime>
+    </File>
+    <File Include="Siite/Inicial.aspx">
+      <publishTime>08/27/2015 13:57:21</publishTime>
+    </File>
+    <File Include="Siite/Login.aspx">
+      <publishTime>08/20/2015 09:25:24</publishTime>
+    </File>
+    <File Include="Siite/Suporte.aspx">
+      <publishTime>08/26/2015 11:19:31</publishTime>
+    </File>
+    <File Include="Testes/Teste1.aspx">
+      <publishTime>09/09/2015 11:12:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/17/2015 09:52:17</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>10/08/2015 15:38:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

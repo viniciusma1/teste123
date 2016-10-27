@@ -1,0 +1,24 @@
+C:\Users\viniciusma\Documents\Visual Studio 2013\Projects\Teste123\Teste123\bin\Teste123.dll.config
+C:\Users\viniciusma\Documents\Visual Studio 2013\Projects\Teste123\Teste123\bin\Teste123.dll
+C:\Users\viniciusma\Documents\Visual Studio 2013\Projects\Teste123\Teste123\bin\Teste123.pdb
+C:\Users\viniciusma\Documents\Visual Studio 2013\Projects\Teste123\Teste123\obj\Debug\Teste123.dll
+C:\Users\viniciusma\Documents\Visual Studio 2013\Projects\Teste123\Teste123\obj\Debug\Teste123.pdb
+C:\Users\lucasnc\Documents\Teste123\Teste123\bin\Teste123.dll.config
+C:\Users\lucasnc\Documents\Teste123\Teste123\bin\Teste123.dll
+C:\Users\lucasnc\Documents\Teste123\Teste123\bin\Teste123.pdb
+C:\Users\lucasnc\Documents\Teste123\Teste123\obj\Debug\Teste123.dll
+C:\Users\lucasnc\Documents\Teste123\Teste123\obj\Debug\Teste123.pdb
+C:\Users\lucasnc\Documents\Teste123\Teste123\obj\Debug\Teste123.csprojResolveAssemblyReference.cache
+C:\Users\viniciusma\Documents\Visual Studio 2013\Projects\Teste123\Teste123\obj\Debug\Teste123.csprojResolveAssemblyReference.cache
+C:\Compartilhada\Teste123\Teste123\bin\Teste123.dll.config
+C:\Compartilhada\Teste123\Teste123\bin\Teste123.dll
+C:\Compartilhada\Teste123\Teste123\bin\Teste123.pdb
+C:\Compartilhada\Teste123\Teste123\obj\Debug\Teste123.csprojResolveAssemblyReference.cache
+C:\Compartilhada\Teste123\Teste123\obj\Debug\Teste123.dll
+C:\Compartilhada\Teste123\Teste123\obj\Debug\Teste123.pdb
+C:\Users\viniciusma\Desktop\Teste123\Teste123\bin\Teste123.dll.config
+C:\Users\viniciusma\Desktop\Teste123\Teste123\bin\Teste123.dll
+C:\Users\viniciusma\Desktop\Teste123\Teste123\bin\Teste123.pdb
+C:\Users\viniciusma\Desktop\Teste123\Teste123\obj\Debug\Teste123.csprojResolveAssemblyReference.cache
+C:\Users\viniciusma\Desktop\Teste123\Teste123\obj\Debug\Teste123.dll
+C:\Users\viniciusma\Desktop\Teste123\Teste123\obj\Debug\Teste123.pdb

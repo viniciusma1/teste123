@@ -1,0 +1,131 @@
+﻿.tablee {
+    font-family: Verdana;
+    margin-left: 1%;
+    text-align: center;
+    width: 27%;
+}
+
+table {
+    font-family: Verdana;
+    margin-left: 1%;
+    text-align: center;
+    width: 99%;
+}
+
+.buttonn {
+    margin: 0 0 10px 271px;
+    position: relative;
+    top: 2px;
+    left: 46%;
+    width: 85px;
+}
+
+.divResultado {
+    margin-top: 5vw;
+    width: 100%;
+}
+
+
+
+.abc {
+    font-family: Verdana;
+}
+
+td {
+    text-align: center;
+}
+
+.a {
+    display: inline-block;
+    color: #000000;
+    font-size: 0.9vw;
+    font-weight: bold;
+    font-style: normal;
+    height: 2vw;
+    width: 9vw;
+    text-decoration: none;
+    text-align: center;
+}
+
+.ab {
+    height: 4.7vw;
+    width: 100%;
+    font-family: Verdana;
+}
+
+.abccc {
+    height: 4.7vw;
+    width: 100%;
+    font-family: Verdana;
+}
+
+.abcc {
+    height: 4.7vw;
+    width: 100%;
+    font-family: Verdana;
+}
+
+.datepicker {
+    font-family: Verdana;
+    margin-left: 1%;
+    text-align: center;
+    width: 10%;
+    border-style: Double;
+    border-color: #808080;
+}
+
+div.app-bar {
+    background-color: #386D53;
+}
+
+.app-bar .app-bar-element:active, .app-bar .app-bar-element:hover {
+    background-color: #386D49;
+}
+
+.app-bar .app-bar-divider {
+    display: block;
+    float: left;
+    line-height: 3.125rem;
+    height: 3.125rem;
+    width: 1px;
+    background-color: rgb(204,204,204);
+    padding: 0;
+}
+
+.aas {
+}
+
+.input-control.email .button, .input-control.file .button, .input-control.number .button, .input-control.password .button, .input-control.select .button, .input-control.tel .button, .input-control.text .button {
+    position: absolute;
+    top: 12px;
+    right: -8px;
+    z-index: 2;
+    margin: 0px;
+    height: 70%;
+    border: 3px solid #d9d9d9;
+}
+
+.input-control input, .input-control select, .input-control textarea {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    position: relative;
+    border: 3px solid #d9d9d9;
+    width: 70%;
+    height: 70%;
+    padding: .3125rem;
+    z-index: 1;
+    top: 12px;
+    left: 8%;
+}
+
+.Remover {
+    font-family: Verdana;
+}
+
+.img {
+    width: 20px;
+}
+
+.Check {
+    background: url(' Imagens/Check-icon.png') no-repeat;    
+}
